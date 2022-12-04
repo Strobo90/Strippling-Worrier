@@ -1,6 +1,5 @@
 # Strippling-Worrier
 
-For my final project I would like to create a game called Strippling Warrior.
 This Game uses the skills I have gain this semester while learning how object-oriented programming works.
 This game will have at least 10 classes that performs unique tasks for the proper functioning of the game. 
 It will incorporate the core principles of programming with classes which are, abstraction, encapsulation, inheritance, and polymorphism.
